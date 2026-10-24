@@ -1,0 +1,200 @@
+# handle	cn_name	type_id  (1街头探店 2餐厅厨师 3历史文化 4食材工厂 5亚洲美食 6Vlog融合)
+# 来源: food-recap 64博主 + food-factory 独有4博主 + Kabo Food Top478 + Feedspot + Reddit 汇总
+# 扩展时间: 2026-10-12
+#
+# ═══════════════════════════════════════════════════
+# ① 街头探店 (street-food / food-tour)
+# ═══════════════════════════════════════════════════
+@BestEverFoodReviewShow	Sonny Side	1
+@MarkWiens	Mark Wiens	1
+@thefoodranger	The Food Ranger	1
+@strictlydumpling	Strictly Dumpling	1
+# --- 扩展: 街头探店 ---
+@nickdigiovanni	Nick DiGiovanni	1
+@Spizee	Spizee	1
+@BobbyParrish	Bobby Parrish	1
+@ChefTyler	Chef Tyler	1
+@JordanHowlett	Jordan Howlett	1
+@AnthonyRahayel	Anthony Rahayel	1
+@ZermattNeo	Zermatt Neo	1
+@AlmazanKitchen	AlmazanKitchen	1
+# @DancingBacons 已在 ⑤ 亚洲美食 中收录
+@SternaVideo	Stera Video	1
+@MoreBestEverFoodReviewShow	More BEFRS	1
+@DavidsBeanHere	Davids Been Here	1
+@abroadandhungry	Abroad and Hungry	1
+@golgappagirl	Golgappa Girl	1
+@spiceler	Spiceler	1
+@garetheats	Gareth Eats	1
+@ekfoodtrip	Ek Food Trip	1
+@Beardmeatsfood	Beard Meats Food	1
+@WillTennyson	Will Tennyson	1
+@FuriousPete	Furious Pete	1
+@BadlandsChugs	BadlandsChugs	1
+@KSIAZULOpl	KSIĄŻULO	1
+@Dilsefoodie	Dilsefoodie	1
+@visa2explore	Visa2Explore	1
+@DelhiFoodWalks	Delhi Food Walks	1
+@SwadOfficial	Swad Official	1
+@UncleDiaries	Uncle Diaries	1
+@LifeofBoris	Life of Boris	1
+#
+# ═══════════════════════════════════════════════════
+# ② 餐厅厨师 (chef / restaurant / cooking)
+# ═══════════════════════════════════════════════════
+@gordonramsay	Gordon Ramsay	2
+@buzzfeedtasty	Tasty	2
+@Epicurious	Epicurious	2
+@bonappetit	Bon Appétit	2
+@Mashed	Mashed	2
+@Munchies	Munchies	2
+@FoodNetwork	Food Network	2
+@ChefSteps	Chef Steps	2
+@Food52	Food52	2
+@hellskitchen	Hell's Kitchen	2
+@Eater	Eater	2
+@tastemade	Tastemade	2
+@chef	Chef	2
+@insiderfood	Insider Food	2
+# --- 扩展: 餐厅厨师 ---
+@AndyCooks	Andy Cooks	2
+@JamieOliver	Jamie Oliver	2
+@PreppyKitchen	Preppy Kitchen	2
+@SamtheCookingGuy	SAM THE COOKING GUY	2
+@CowboyKentRollins	Cowboy Kent Rollins	2
+@AdamRagusea	Adam Ragusea	2
+@ChefJeanPierre	Chef Jean-Pierre	2
+@NatashasKitchen	Natasha's Kitchen	2
+@GugaFoods	Guga Foods	2
+@MaxTheMeatGuy	Max The Meat Guy	2
+@EpicMealTime	Epic Meal Time	2
+@BingingwithBabish	Binging with Babish	2
+@ProHomeCooks	Pro Home Cooks	2
+@ByronTalbott	Byron Talbott	2
+@Maangchi	Maangchi	2
+@WiltCleaver	Chinese Cooking Demystified	2
+@MarionGrasby	Marion's Kitchen	2
+@MiddleEats	Middle Eats	2
+@UncleRogerShorts	Uncle Roger	2
+@maboroshi100	Mr. Tako	2
+@RecipesByCima	Recipes by Cima	2
+@WildernessCooking	Wilderness Cooking	2
+@PopiKitchen	Popi Kitchen	2
+@VegVillageFood	Veg Village Food	2
+@CRCook	CR Cook	2
+#
+# ═══════════════════════════════════════════════════
+# ③ 历史文化 (food-history / food-culture)
+# ═══════════════════════════════════════════════════
+@joshuaweissman	Joshua Weissman	3
+@tastinghistory	Tasting History	3
+@Townsends	Townsends	3
+@EthanChlebowski	Ethan Chlebowski	3
+@BrianLagerstrom	Brian Lagerstrom	3
+@JKenjiLopezAlt	J. Kenji López-Alt	3
+@nytcooking	NYT Cooking	3
+@greatbigstory	Great Big Story	3
+@bbcearth	BBC Earth	3
+@cnbc	CNBC	3
+# --- 扩展: 历史文化 ---
+@RainaisCrazy	Raina is Crazy	3
+@ItaliankitchenGG	Italia Squisita	3
+@AboutToEat	About To Eat	3
+@TasteofHistory	Taste of History	3
+@FoodInsider	Food Insider	3
+@AtlasObscura	Atlas Obscura Food	3
+@GoodMythicalMorning	Good Mythical Morning	3
+@FirstWeFeast	First We Feast	3
+@SortedFood	Sorted Food	3
+#
+# ═══════════════════════════════════════════════════
+# ④ 食材工厂 (food-factory / how-its-made)
+# ═══════════════════════════════════════════════════
+@NatGeo	NatGeo	4
+@businessinsider	Business Insider	4
+@discovery	Discovery	4
+@ScienceChannel	Science Channel	4
+@entrepreneur	Entrepreneur	4
+@insider	Insider	4
+@foodwishes	Food Wishes	4
+@AmericasTestKitchen	America's Test Kitchen	4
+# @SortedFood 已在 ③ 历史文化 中收录
+@WondasticTech	Wondastic Tech	4
+# --- 扩展: 食材工厂 ---
+@HowItsMade	How It's Made	4
+@FoodFactory	Food Factory	4
+@UnwrappedFoodNetwork	Unwrapped	4
+@ProcessExplained	Process Explained	4
+@ProccessTV	Proocess	4
+@AbsoluteHistory	Absolute History	4
+@WiredFood	WIRED Food	4
+@Refinery29	Refinery29 Sweet Digs	4
+@FoodTheory	Food Theory	4
+@BarnMutt	Barn Mutt	4
+#
+# ═══════════════════════════════════════════════════
+# ⑤ 亚洲美食 (asian-food)
+# ═══════════════════════════════════════════════════
+@GrandpaKitchen	Grandpa Kitchen	5
+@koreanenglishman	Korean Englishman	5
+@JunsKitchen	Juns Kitchen	5
+@paolofromtokyo	Paolo from Tokyo	5
+@DancingBacons	Dancing Bacons	5
+@AsianBoss	Asian Boss	5
+@AbroadinJapan	Abroad in Japan	5
+@JapaneseFoodCraftsman	Japanese Food Craftsman	5
+@VillageFoodSecrets	Village Food Secrets	5
+@TabiEats	TabiEats	5
+# --- 扩展: 亚洲美食 ---
+@FatSongsongAndThinErmao	胖松鼠和瘦二毛	5
+@ChineseHamburger	Chinese Hamburger	5
+@LiziqiChannel	李子柒 Liziqi	5
+@VillageCookingChannel	Village Cooking Channel	5
+@MrNigelNg	Nigel Ng (Uncle Roger)	5
+@InaIndo	Ina Indo	5
+@MrBeansOfficial	Mr. Bean's Cookery	5
+@PalinasKitchen	Palina's Kitchen	5
+@TokyoExplorer	Tokyo Explorer	5
+@JapanInsiderFood	Japan Insider Food	5
+@Aden	Aden Films	5
+@SeonkyoungLongest	Seonkyoung Longest	5
+@IndoChinese	Indo Chinese	5
+@AsianHomeChef	Asian Home Chef	5
+@MakikaWasabi	Makika Wasabi	5
+@CheapLazyVegan	Cheap Lazy Vegan	5
+@ChineseStreetFood	Chinese Street Food	5
+@WookAndMina	Wooka and Mina	5
+#
+# ═══════════════════════════════════════════════════
+# ⑥ Vlog融合 (food-vlog / travel-food)
+# ═══════════════════════════════════════════════════
+@DrewBinsky	Drew Binsky	6
+@baldandbankrupt	Bald and Bankrupt	6
+@PeterSantenello	Peter Santenello	6
+@KarlRock	Karl Rock	6
+@fearlessandfar	Fearless and Far	6
+@LukeKorns	Luke Korns	6
+@laowhy86	laowhy86	6
+@SabbaticalTommy	Sabbatical Tommy	6
+@TimmyKarter	Timmy Karter	6
+@StevenNdukwu	Steven Ndukwu	6
+@OutdoorChefLife	Outdoor Chef Life	6
+@HereBeBarr	Here Be Barr	6
+@BlondieinChina	Blondie in China	6
+@LifeWhereImFrom	Life Where Im From	6
+@JoelHansen	Joel Hansen	6
+@WoltersWorld	Wolters World	6
+@davidsbeenhere	Davids Been Here	6
+# --- 扩展: Vlog融合 ---
+@MigrationologyFood	Migrationology	6
+@OddlyIna	Oddly Ina	6
+@SamuelAndAudrey	Samuel and Audrey	6
+@TheFoodTourist	The Food Tourist	6
+@EatingCheap	Eating Cheap	6
+@WorldFoodBlog	World Food Blog	6
+@ChefAndCamera	Chef and Camera	6
+@RachelAmesMeals	Rachel Ames	6
+@SerpentZA	SerpentZA	6
+@Xiaomanyc	Xiaomanyc	6
+@CaliforniaBurrito	California Burrito	6
+@LetsEatTheWorld	Let's Eat The World	6
